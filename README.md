@@ -1,2 +1,2 @@
-# mathematicalBiology
- The jupyter notebook for my third year mathematical biology project, modelling fish population dynamics; looking t the effects fishing on fish populations
+# mathematical biology
+ Final year undergraduate maths project; modelling and simulating fish population dynamics in python 
